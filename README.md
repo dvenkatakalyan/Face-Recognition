@@ -3,7 +3,7 @@ Building a Real time Face attendance system that is linked with real time databa
 
 
 ## Flow Chart
-
+![Flow Chart](Flow_chart.PNG)
 
 ## Appendix
 1) First we run the webcam
