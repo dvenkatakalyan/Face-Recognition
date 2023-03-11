@@ -11,16 +11,7 @@ ref = db.reference('Students')#creating student directory in database and inside
 
 #Adding the data
 data = {
-    "321654":
-        {
-            "name": "Murtaza Hassan",
-            "major": "Robotics",
-            "starting_year": 2017,
-            "total_attendance": 7,
-            "standing": "G",
-            "year": 4,
-            "last_attendance_time": "2022-12-11 00:54:34"
-        },
+
     "852741":
         {
             "name": "Emly Blunt",
