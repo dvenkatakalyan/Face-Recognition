@@ -42,6 +42,5 @@ In credentials,the link of the storage bucket should be copied from firebase and
   python main.py
 ```
 ## Demo
-
-Insert gif or link to demo
+![Attendance](attendance.gif)
 
